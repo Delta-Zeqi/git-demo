@@ -11,3 +11,4 @@ hello git! hello linus!
 hello git! hello linus!hot-fix test
 hello git! hello linus!master-test
 github moditfy, test git pull
+test ssh
