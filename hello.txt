@@ -14,3 +14,4 @@ github moditfy, test git pull
 test ssh
 ssh 免密登录测试
 laptop test
+laptop ssh 免密登录
